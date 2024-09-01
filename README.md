@@ -1,10 +1,8 @@
-# 🎈 Blank app template
+# My first streamlit app, to demonstrate RAG
 
-A simple Streamlit app template for you to modify!
+This is built using the sample blank template that Streamlit Cloud offers at https://blank-app-template.streamlit.app/
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
+### How to run this app on your own machine
 
 1. Install the requirements
 
