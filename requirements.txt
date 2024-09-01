@@ -6,3 +6,4 @@ langchain_community
 sentence-transformers
 langchain-huggingface
 faiss-cpu
+langchain-groq
